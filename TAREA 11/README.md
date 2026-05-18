@@ -1,0 +1,1 @@
+Estos programas permiten acceder a la informacion de los estudiantes que estan guardados en un archivo csv y usar los datos en el programa. se pueden insertar los estudianes mediante su ID, eliminarlos y tambien mostrar graficas con toda la informacion guardada de ellos
