@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\FINAL_PROYECTO.dir\\main.cpp.obj -c \"C:\\Users\\selen\\OneDrive\\Documents\\PROGRA 3\\FINAL PROYECTO\\main.cpp\"",
+  "file": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/main.cpp",
+  "output": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug/CMakeFiles/FINAL_PROYECTO.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\FINAL_PROYECTO.dir\\ProjectList.cpp.obj -c \"C:\\Users\\selen\\OneDrive\\Documents\\PROGRA 3\\FINAL PROYECTO\\ProjectList.cpp\"",
+  "file": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/ProjectList.cpp",
+  "output": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug/CMakeFiles/FINAL_PROYECTO.dir/ProjectList.cpp.obj"
+},
+{
+  "directory": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\FINAL_PROYECTO.dir\\Student.cpp.obj -c \"C:\\Users\\selen\\OneDrive\\Documents\\PROGRA 3\\FINAL PROYECTO\\Student.cpp\"",
+  "file": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/Student.cpp",
+  "output": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug/CMakeFiles/FINAL_PROYECTO.dir/Student.cpp.obj"
+},
+{
+  "directory": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\FINAL_PROYECTO.dir\\HashTable.cpp.obj -c \"C:\\Users\\selen\\OneDrive\\Documents\\PROGRA 3\\FINAL PROYECTO\\HashTable.cpp\"",
+  "file": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/HashTable.cpp",
+  "output": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug/CMakeFiles/FINAL_PROYECTO.dir/HashTable.cpp.obj"
+},
+{
+  "directory": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\FINAL_PROYECTO.dir\\AVL.cpp.obj -c \"C:\\Users\\selen\\OneDrive\\Documents\\PROGRA 3\\FINAL PROYECTO\\AVL.cpp\"",
+  "file": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/AVL.cpp",
+  "output": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug/CMakeFiles/FINAL_PROYECTO.dir/AVL.cpp.obj"
+},
+{
+  "directory": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\FINAL_PROYECTO.dir\\Graph.cpp.obj -c \"C:\\Users\\selen\\OneDrive\\Documents\\PROGRA 3\\FINAL PROYECTO\\Graph.cpp\"",
+  "file": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/Graph.cpp",
+  "output": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug/CMakeFiles/FINAL_PROYECTO.dir/Graph.cpp.obj"
+},
+{
+  "directory": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\FINAL_PROYECTO.dir\\Queue.cpp.obj -c \"C:\\Users\\selen\\OneDrive\\Documents\\PROGRA 3\\FINAL PROYECTO\\Queue.cpp\"",
+  "file": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/Queue.cpp",
+  "output": "C:/Users/selen/OneDrive/Documents/PROGRA 3/FINAL PROYECTO/cmake-build-debug/CMakeFiles/FINAL_PROYECTO.dir/Queue.cpp.obj"
+}
+]
